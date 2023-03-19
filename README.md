@@ -41,3 +41,4 @@ This project was built using **React** and **Redux** with create-react-app --tem
 
 - Optimisation for tablet view
 - Addition of more related subreddits
+- Include transition for mobile screen side menu
