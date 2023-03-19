@@ -60,7 +60,9 @@
     display: none;
 }
 
-.navBar-menu, .menu, .transparent-background {
+.navBar-menu,
+.menu,
+.transparent-background {
     z-index: -5;
 }
 
@@ -273,7 +275,7 @@ i:hover {
         margin-top: 1.5rem;
         background-size: cover;
     }
-    
+
     .menu {
         background-color: white;
         color: black;
@@ -286,7 +288,7 @@ i:hover {
         background-size: cover;
         box-shadow: 10px 10px 20px 2px lightslategray;
     }
-    
+
     .transparent-background {
         background-color: whitesmoke;
         z-index: 2;
@@ -309,7 +311,8 @@ i:hover {
         padding-bottom: 0.5rem;
     }
 
-    .mobileBannerTitleReddit, .mobileBannerTitlePCGaming {
+    .mobileBannerTitleReddit,
+    .mobileBannerTitlePCGaming {
         font-size: 1rem;
         font-weight: bold;
     }
@@ -321,7 +324,7 @@ i:hover {
     .bannerTitleDiv {
         display: none;
     }
-    
+
 
     .searchArea {
         max-width: 100%;
@@ -340,12 +343,12 @@ i:hover {
         box-shadow: 0 0 0 0;
         max-width: 10rem;
     }
-    
+
     .subredditList {
         font-weight: 100;
         font-style: italic;
     }
-    
+
     .subredditList,
     .topic {
         padding: 0rem 0.4rem;
@@ -459,9 +462,16 @@ i:hover {
         overflow-wrap: break-word;
     }
 
-    .comment-reply-body, .comment-reply-author {
+    .comment-upvotes,
+    .comment-replyButton {
+        padding-left: 1rem;
+    }
+
+    .comment-reply-body,
+    .comment-reply-author {
         font-size: 0.8rem;
         line-height: 0.9rem;
+        overflow-wrap: break-word;
     }
 
     .comment-reply-details {
@@ -510,7 +520,7 @@ i:hover {
         margin-top: 1.5rem;
         background-size: cover;
     }
-    
+
     .menu {
         background-color: white;
         color: black;
@@ -523,7 +533,7 @@ i:hover {
         background-size: cover;
         box-shadow: 10px 10px 20px 2px lightslategray;
     }
-    
+
     .transparent-background {
         background-color: whitesmoke;
         z-index: 2;
@@ -546,7 +556,8 @@ i:hover {
         padding-bottom: 0.5rem;
     }
 
-    .mobileBannerTitleReddit, .mobileBannerTitlePCGaming {
+    .mobileBannerTitleReddit,
+    .mobileBannerTitlePCGaming {
         font-size: 1rem;
         font-weight: bold;
     }
@@ -554,12 +565,12 @@ i:hover {
     .mobileBannerTitleReddit {
         color: #0854a6;
     }
-    
+
 
     .bannerTitleDiv {
         display: none;
     }
-    
+
 
     .searchArea {
         max-width: 100%;
@@ -583,12 +594,12 @@ i:hover {
         box-shadow: 0 0 0 0;
         max-width: 10rem;
     }
-    
+
     .subredditList {
         font-weight: 100;
         font-style: italic;
     }
-    
+
     .subredditList,
     .topic {
         padding: 0rem 0.2rem;
@@ -702,9 +713,16 @@ i:hover {
         overflow-wrap: break-word;
     }
 
-    .comment-reply-body, .comment-reply-author {
+    .comment-upvotes,
+    .comment-replyButton {
+        padding-left: 1rem;
+    }
+
+    .comment-reply-body,
+    .comment-reply-author {
         font-size: 0.8rem;
         line-height: 0.9rem;
+        overflow-wrap: break-word;
     }
 
     .comment-reply-details {
