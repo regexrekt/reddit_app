@@ -21,7 +21,7 @@ export const Head = (props) => {
                 <FontAwesomeIcon icon={faBars} onClick={handleNavBarClick}/>
             </div>
             <div className='bannerTitleDiv'>
-                <img className='bannerLogo' src="https://www.kindpng.com/picc/m/690-6909074_reddit-logo-png-transparent-png.png" alt="Reddit Logo Png, Transparent Png@kindpng.com" />
+                <img className='bannerLogo' src="./reddit-blue-gamer-50px.png" alt="Reddit Logo Png, Transparent Png@kindpng.com" />
                 <div id='bannerTitleText' className='bannerTitle'>
                     <span id='bannerTitleReddit' className='bannerTitle'>Reddit</span>
                     <span className='bannerTitle'>PCGaming</span>

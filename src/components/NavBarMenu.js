@@ -19,7 +19,7 @@ export const NavBarMenu = (props) => {
             <div className='menu'>
                 <div className='menu-items'>
                     <div className='menu-header'>
-                        <img className='mobileBannerLogo' src="https://www.kindpng.com/picc/m/690-6909074_reddit-logo-png-transparent-png.png" alt="Reddit Logo Png, Transparent Png@kindpng.com" />
+                        <img className='mobileBannerLogo' src="./reddit-blue-gamer-50px.png" alt="Reddit Logo Png, Transparent Png@kindpng.com" />
                     </div>
                     <div className='mobileBannerTitle'>
                         <span className='mobileBannerTitleReddit'>Reddit</span>
