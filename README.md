@@ -1,6 +1,6 @@
 # RedditPCGaming (Codecademy Portfolio Project: Reddit Client)
 
-### View the published web app [here](https://reddit-pcgaming-webapp-codecademy.surge.sh/)
+### View the published web app [here](https://regexrekt-reddit-project.surge.sh/)
 
 ## Features
 
