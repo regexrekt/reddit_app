@@ -253,7 +253,7 @@ i:hover {
 
     .headerBanner {
         display: flex;
-        width: 99%;
+        width: 98%;
         align-items: center;
         box-shadow: 2px 2px 5px 0.2px lightslategray;
         border-bottom-left-radius: 1rem;
@@ -498,7 +498,7 @@ i:hover {
 
     .headerBanner {
         display: flex;
-        width: 95%;
+        width: 98%;
         align-items: center;
         box-shadow: 2px 2px 5px 0.2px lightslategray;
         border-bottom-left-radius: 1rem;
@@ -635,7 +635,7 @@ i:hover {
     .postDiv,
     .card-content {
         display: block;
-        width: 96%;
+        width: 99%;
         padding: 1rem 0;
     }
 
